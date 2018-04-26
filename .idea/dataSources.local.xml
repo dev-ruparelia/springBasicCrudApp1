@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="5fd57e16-d6b0-482b-a319-a142fb5b90ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dffadfeadfd9dfd9dfdddf9adfd8dfcedfeadf9bdf98df99</user-password>
+    </data-source>
+    <data-source name="@localhost" uuid="5fd57e16-d6b0-482b-a319-a142fb5b90ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dffadfeadfd9dfd9dfdddf9adfd8dfcedfeadf9bdf98df99</user-password>
+      <resolve-scope>springCrudApp1:*|testDBContacts:</resolve-scope>
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="springCrudApp1@localhost" uuid="9d3c3b18-3cb7-41ff-b8d5-799d0f2f9429">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>
